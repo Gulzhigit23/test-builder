@@ -3,7 +3,7 @@ body{
     background: linear-gradient(to right,#0555e6,#021b79);
     background: linear-gradient(to right, #F6EFD2, #CEAD78);
     background: radial-gradient(40% 50%, #FAECD5, #CAE4D8);
-    background-image: url(https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTB8fHdvcmslMjBzcGFjZXxlbnwwfHwwfHw%3D&w=1000&q=80);
+    /* background-image: url(https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTB8fHdvcmslMjBzcGFjZXxlbnwwfHwwfHw%3D&w=1000&q=80); */
     background-size: cover;
 
 }
