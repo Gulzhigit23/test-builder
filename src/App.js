@@ -10,7 +10,7 @@ import AllTest from "./components/Tests/AllTest";
 import SingleTest from "./components/Tests/SingleTest";
 
 function App() {
-  const [isStart, setIsStart] = useState(false);
+
   return (
     <div className="App">
       <Routes>
@@ -26,18 +26,4 @@ function App() {
 
 export default App;
 
-const CreateQuestione = styled.button`
-  width: 7rem;
-  height: 2rem;
-  border-radius: 10px;
-  margin-top: 10rem;
-`;
 
-const GotoHome = styled.button`
-  width: 7rem;
-  height: 2rem;
-  border-radius: 10px;
-  position: absolute;
-  left: 10rem;
-  top: 10px;
-`;
