@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-builder/static/css/main.2806d762.css",
+    "main.js": "/test-builder/static/js/main.f8ef3a41.js",
+    "index.html": "/test-builder/index.html",
+    "main.2806d762.css.map": "/test-builder/static/css/main.2806d762.css.map",
+    "main.f8ef3a41.js.map": "/test-builder/static/js/main.f8ef3a41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2806d762.css",
+    "static/js/main.f8ef3a41.js"
+  ]
+}
