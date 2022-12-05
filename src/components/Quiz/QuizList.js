@@ -1,4 +1,4 @@
-import { Clear, Delete } from "@mui/icons-material";
+import { Clear,  } from "@mui/icons-material";
 import React from "react";
 import { useDispatch } from "react-redux";
 import styled from "styled-components";
@@ -39,11 +39,6 @@ const Container = styled.div`
   border-radius: 10px;
 `;
 
-const Conspiracies = styled.div`
-  /* display: flex;
-  /* justify-content: space-around; */
-  /* justify-content: center;
-  margin-top: 25px; */ 
-`;
+
 
 

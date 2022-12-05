@@ -1,7 +1,6 @@
 import React from "react";
 import { useSelector } from "react-redux";
-import Home from "../Home/Home";
-import AllTest from "../Tests/AllTest";
+
 import QuizList from "./QuizList";
 
 function QuizItems() {

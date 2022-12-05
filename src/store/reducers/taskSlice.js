@@ -1,4 +1,4 @@
-import { createSlice, current } from "@reduxjs/toolkit";
+import { createSlice,  } from "@reduxjs/toolkit";
 
 
 const taskSlice = createSlice({
@@ -22,7 +22,7 @@ const taskSlice = createSlice({
     removeSubTest(state, action) {
       const { testId, childrenId } = action.payload;
 
-      const findMainId = state.test.map((item) => {
+       state.test.map((item) => {
         if (item.id === testId) {
           return (item.variants = item.variants.filter(
             (item) => item.id !== childrenId
